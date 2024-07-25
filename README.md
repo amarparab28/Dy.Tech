@@ -21,3 +21,5 @@
 * Custom Dataset Class: Create a custom dataset class to handle input encodings and labels.
 * Model Training: Train a BERT model for sequence classification using the prepared dataset.
 * Model Evaluation: Evaluate the trained model on the dataset.
+
+![image](Screenshot 2024-07-25 175110.png)
