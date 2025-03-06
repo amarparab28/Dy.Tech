@@ -3,7 +3,7 @@
 | Amar Parab   | Simeen Pathan | Dhanshree Petkar | Sania Alam |
 |------------------|-------------------------|-------------------|-------------------|
 | Class - TY A   |         Class - TY A |      Class - TY A |Class - TY A |
-| Roll No. - 39   |       Roll No. - 35  |     Roll No.   | Roll No.    |
+| Roll No. - 39   |       Roll No. - 35  |     Roll No. - 02  | Roll No. - 17   |
 
 ### College - D.Y.Patil College of Engineering & Technology
 
