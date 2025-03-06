@@ -1,6 +1,6 @@
 ## _Team - Dy.Tech_
 ### Team Members
-| Amar Parab   | Simeen Pathan | Dhanshree Petkar | Saniya Alam |
+| Amar Parab   | Simeen Pathan | Dhanshree Petkar | Sania Alam |
 |------------------|-------------------------|-------------------|-------------------|
 | Class - TY A   |         Class - TY A |      Class - TY A |Class - TY A |
 | Roll No. - 39   |       Roll No. - 35  |     Roll No.   | Roll No.    |
